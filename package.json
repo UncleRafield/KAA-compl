@@ -1,0 +1,12 @@
+{
+  "name": "compliment-wall",
+  "version": "1.0.0",
+  "description": "A simple compliment wall with admin posting",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
